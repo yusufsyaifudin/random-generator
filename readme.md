@@ -16,7 +16,7 @@ Pada `pom.xml`, tambahkan alamat repositori berikut:
     <repository>
       <id>yusufs.generator</id>
       <name>randstring</name>
-      <url>https://github.com/yusufsyaifudin/random-generator/raw/master/</url>
+      <url>https://github.com/yusufsyaifudin/random-generator/raw/master/1.0.0</url>
     </repository>
 </repositories> 
 ```
