@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/yusufsyaifudin/random-generator.svg?branch=master)](https://travis-ci.org/yusufsyaifudin/random-generator)
+
 # Random Generator
 
 Generator of random string in JAVA.
