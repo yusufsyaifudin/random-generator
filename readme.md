@@ -4,12 +4,11 @@
 
 Generator of random string in JAVA.
 
-
-## Instalasi
+## Installation
 
 ### Maven
 
-Pada `pom.xml`, tambahkan alamat repositori berikut:
+Inside `pom.xml`, add the repository url as below:
 
 ```
 <repositories>
@@ -21,7 +20,7 @@ Pada `pom.xml`, tambahkan alamat repositori berikut:
 </repositories> 
 ```
 
-dan dependensi berikut:
+and so does the dependency:
 
 ```
 <dependencies>
@@ -37,9 +36,9 @@ dan dependensi berikut:
 
 ## Penggunaan
 
-Random string generator ini ada 3 mode, yaitu menghasilkan ALPHANUMERIC (alfabet dan angka), ALPHA (alfabet saja) atau NUMERIC (angka saja).
+This Random string generator has 3 mode, they are: Produce ALPHANUMERIC (alphabet and numeric), ALPHA (alphabet only) and NUMERIC (numeric only).
 
-Contoh penggunaannya ialah sebagai berikut:
+Below is the example how to use it:
 
 ```
 String randomAlphaNumeric = RandomStringGenerator.generateRandomString(10, RandomStringGenerator.Mode.ALPHANUMERIC);
